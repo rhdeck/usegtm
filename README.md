@@ -61,7 +61,7 @@ usegtm - v1.0.0
 
 **Returns:** *Element*
 
-Defined in: index.tsx:79
+Defined in: [index.tsx:79](https://github.com/rhdeck/usegtm/blob/ee5eeda/src/index.tsx#L79)
 
 ___
 
@@ -87,4 +87,4 @@ ___
 | `sendEvent` | (`key`: *string*, `value`: *string*) => *void* |
 | `sendEvents` | (`events`: GTMEvents) => *void* |
 
-Defined in: index.tsx:92
+Defined in: [index.tsx:92](https://github.com/rhdeck/usegtm/blob/ee5eeda/src/index.tsx#L92)
